@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l13_custom_controls", "l13_custom_controls\l13_custom_controls.csproj", "{6C6705C0-0A8C-4967-A83B-5D21B96FF499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13WPFNetControls", "L13WPFNetControls\L13WPFNetControls.csproj", "{33C4B1A2-6C98-44BA-874F-6D78F3DAC254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6705C0-0A8C-4967-A83B-5D21B96FF499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6705C0-0A8C-4967-A83B-5D21B96FF499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6705C0-0A8C-4967-A83B-5D21B96FF499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6705C0-0A8C-4967-A83B-5D21B96FF499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C4B1A2-6C98-44BA-874F-6D78F3DAC254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C4B1A2-6C98-44BA-874F-6D78F3DAC254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C4B1A2-6C98-44BA-874F-6D78F3DAC254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C4B1A2-6C98-44BA-874F-6D78F3DAC254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C780D99-EFBF-44CB-8D67-DFE79C89F09B}
+	EndGlobalSection
+EndGlobal
