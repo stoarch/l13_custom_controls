@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace l13_custom_controls
+namespace L13WPFNetControls 
 {
     /// <summary>
     /// Interaction logic for ColorPicker.xaml

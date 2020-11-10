@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:l13_custom_controls"
-        xmlns:local1="clr-namespace:l13_custom_controls;assembly=L13WPFNetControls" x:Class="l13_custom_controls.MainWindow"
+        xmlns:local1="clr-namespace:L13WPFNetControls;assembly=L13WPFNetControls" x:Class="l13_custom_controls.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="497.624" Width="382.073">
     <Grid>

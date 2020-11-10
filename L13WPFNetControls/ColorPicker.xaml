@@ -1,9 +1,9 @@
-﻿<UserControl x:Class="l13_custom_controls.ColorPicker"
+﻿<UserControl x:Class="L13WPFNetControls.ColorPicker"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:l13_custom_controls"
+             xmlns:local="clr-namespace:L13WPFNetControls"
              mc:Ignorable="d" 
              Name="colorPicker"
              d:DesignHeight="371.25" d:DesignWidth="298.438">
